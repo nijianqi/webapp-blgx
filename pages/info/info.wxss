@@ -1,1 +1,16 @@
 /* pages/info/info.wxss */
+.button-sp-area{
+    margin: 0 auto;
+    padding-top: 15px;
+    width: 60%;
+}
+.mini-btn{
+    margin-right: 5px;
+}
+.yuyue{
+  position: fixed;
+  z-index: 2;
+  background-color: black;
+  width: 50%;
+  left:25%;
+}

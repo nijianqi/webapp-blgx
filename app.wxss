@@ -3,7 +3,7 @@
 
 .kefu {
   position: fixed;
-  bottom: 7%;
+  bottom: 10%;
   left: 82%;
   z-index: 2;
   border-radius: 100rem;

@@ -5,7 +5,7 @@
   <view class="page__bd">
     <view class="weui-article">
       <view class="weui-panel__hd">理财保险预约</view>
-      <view class="weui-article__section">
+      <view class="weui-article__section" style='margin-top:10px;'>
         <view class="weui-article__p">
           <view class="page__bd">
             <view class="section section_gap">
@@ -21,6 +21,4 @@
       </view>
     </view>
   </view>
-</view>
-<view>
 </view>
