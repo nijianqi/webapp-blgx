@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/me/me",
+    "pages/info/info"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarTitleText": "保了个险",
+    "navigationBarTextStyle": "white",
+    "enablePullDownRefresh": true,
+    "backgroundColor": "black"
+  },
+  "tabBar": {
+    "color": "black",
+    "selectedColor": "black",
+    "backgroundcolor": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "微预约",
+        "iconPath": "image/yuyue.png",
+        "selectedIconPath": "image/yuyue-selected.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "text": "我的",
+        "iconPath": "image/me.png",
+        "selectedIconPath": "image/me-selected.png"
+      }
+    ]
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true
+}

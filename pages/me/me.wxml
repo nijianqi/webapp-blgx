@@ -1,0 +1,3 @@
+<button open-type="contact" session-from="weapp" class="kefu">
+  <image src="../../image/kefu.png" mode="widthFix"></image>
+</button>
